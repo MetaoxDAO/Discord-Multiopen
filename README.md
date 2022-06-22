@@ -5,7 +5,7 @@ DC多开工具可以通过token无限登录disocrd。
 
 About Metaox：
 
-Webside：https://motaox.io/ （未开放）
+Webside：https://metaox.io/ （未开放）
 
 Twitter：https://twitter.com/MetaoxDAO
 
